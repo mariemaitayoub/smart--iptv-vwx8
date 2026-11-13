@@ -5,5 +5,4 @@ export function channels() {
             console.log(data);
             return data;
         })
-        .catch(error => console.log(error));
-}
+        .catch(error => console.log(error));}
